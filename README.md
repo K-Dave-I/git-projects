@@ -1,2 +1,3 @@
 # git-projects
-[link to netlify] (https://happy-swirles-c238f2.netlify.app/)
+read me file illustration
+[link to netlify](https://dave-git-project.netlify.app/)
